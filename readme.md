@@ -1,7 +1,7 @@
 # Open source application idea 
 
 ## Apps 
-- Starter Template for Backend, Frontend, Mobile 
+- Starter Template for Backend, Frontend
 - [Page speed checker with historical data](site-speed-checker.md)
 - TestRail clone
 - HR management system
