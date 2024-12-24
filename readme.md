@@ -2,7 +2,7 @@
 
 ## Apps 
 - Starter Template for Backend, Frontend, Mobile 
-- Page speed checker with historical data
+- [Page speed checker with historical data](site-speed-checker.md)
 - TestRail clone
 - HR management system
   
