@@ -13,6 +13,7 @@
 - DB: mongo, Postgres 
 - ORM - Prisma
 - Node JS with typescript
+- Nest JS with Graphql 
 
 ### Frontend 
 - React with typescript and Graphql, Rest
