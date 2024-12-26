@@ -23,5 +23,5 @@ For multitenancy
 
 ## Post CMS 
 - CRUD 
-- Role based access 
-- Server side pagination, search, filter, sort, trash 
+- Role-based access 
+- Server-side pagination, search, filter, sort, trash 
